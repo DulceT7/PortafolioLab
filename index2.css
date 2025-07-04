@@ -1,6 +1,6 @@
 .seccion3 {
    width: 1440px;
-   height: 1500px;
+   height: 2200px;
    border: 1px solid black;
    background-color: black;
 }
@@ -23,8 +23,8 @@
    margin-top: 40px;
 }
 .img2 {
-   width: 330px;
-   height: 197px;
+   width: 530px;
+   height: 297px;
    margin-top: 30px;
    border-radius: 18px;
    border: 1px solid white;
@@ -63,8 +63,8 @@
    margin-top: 40px;
 }
 .img3 {
-   width: 330px;
-   height: 197px;
+   width: 530px;
+   height: 297px;
    margin-top: 30px;
    border-radius: 18px;
    border: 1px solid white;
@@ -103,8 +103,8 @@
    margin-top: 40px;
 }
 .img4 {
-   width: 330px;
-   height: 197px;
+   width: 530px;
+   height: 297px;
    margin-top: 30px;
    border-radius: 18px;
    border: 1px solid white;
@@ -128,6 +128,86 @@
    color: #FFFFFF;
 }
 .descripcion3 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+.project4 {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.img5 {
+   width: 530px;
+   height: 297px;
+   margin-top: 30px;
+   border-radius: 18px;
+   border: 1px solid white;
+}
+.num4 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -280px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+.nombre4 {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+.descripcion4 {
+   width: 582px;
+   height: 96px;
+   margin-left: 600px;
+   margin-top: 40px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+.project5 {
+   width: 1216px;
+   height: 364px;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.img6 {
+   width: 530px;
+   height: 297px;
+   margin-top: 30px;
+   border-radius: 18px;
+   border: 1px solid white;
+}
+.num5 {
+   width: 582px;
+   height: 56px;
+   margin-left: 600px;
+   margin-top: -280px;
+   font-weight: 800;
+   font-size: 48px;
+   color: #FFFFFF;
+}
+.nombre5 {
+   width: 582px;
+   height: 40px;
+   margin-left: 600px;
+   margin-top: 20px;
+   font-weight: 700;
+   font-size: 32px;
+   color: #FFFFFF;
+}
+.descripcion5 {
    width: 582px;
    height: 96px;
    margin-left: 600px;

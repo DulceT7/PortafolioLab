@@ -1,0 +1,90 @@
+.seccion4 {
+   width: 1440px;
+   height: 604px;
+}
+.name {
+   width: 500px;
+   height: 56px;
+   border: 1px solid black;
+   margin-left: 120px;
+   margin-top: 100px;
+}
+.name2 {
+   width: 452px;
+   height: 20px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #71717A;
+   display: flex;
+   margin: auto;
+   margin-top: 15px;
+}
+.email {
+   width: 500px;
+   height: 56px;
+   border: 1px solid black;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.email2 {
+   width: 452px;
+   height: 20px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #71717A;
+   display: flex;
+   margin: auto;
+   margin-top: 15px;
+}
+.web {
+   width: 500px;
+   height: 56px;
+   border: 1px solid black;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.web2 {
+   width: 452px;
+   height: 20px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #71717A;
+   display: flex;
+   margin: auto;
+   margin-top: 15px;
+}
+.how {
+   width: 500px;
+   height: 140px;
+   border: 1px solid black;
+   margin-left: 120px;
+   margin-top: 40px;
+}
+.how2 {
+   width: 452px;
+   height: 20px;
+   font-size: 16px;
+   font-weight: 400;
+   color: #71717A;
+   display: flex;
+   margin: auto;
+   margin-top: 15px;
+}
+.descripcion6 {
+   width: 582px;
+   height: 96px;
+   margin-left: 700px;
+   margin-top: -300px;
+   font-weight: 400;
+   font-size: 16px;
+   color: #71717A;
+}
+.gmail {
+   width: 608px;
+   height: 80px;
+   margin-left: 700px;
+   margin-top: 50px;
+   font-weight: 600;
+   font-size: 28px;
+   color: #000000;
+}
