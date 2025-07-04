@@ -18,8 +18,10 @@
    margin-left: 120px;
    margin-top: 20px;
    display: grid;
-   grid-template-columns: repeat(5, 5fr);
+   grid-template-columns: repeat(4, 1fr); /* 4 columnas */
+   gap: 20px; /* opcional: espacio entre los elementos */
 }
+
 .skill1 {
    width: 186px;
    height: 186px;
@@ -27,4 +29,8 @@
    border: 2px solid #000000;
    display: flex;
    margin: auto;
+}
+.foto{
+   width: 180px;
+   height: 180px;
 }
