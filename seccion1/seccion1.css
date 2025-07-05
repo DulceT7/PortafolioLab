@@ -40,3 +40,9 @@
    margin-left: 400px;
    margin-top: -450px;
 }
+.discord:hover,
+.facebook:hover,
+.reddit:hover ,
+.twitter:hover{
+   background-color: slategray;
+}
