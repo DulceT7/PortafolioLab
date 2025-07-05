@@ -3,3 +3,94 @@
     height: 2538px;
     margin: auto;
 }
+/* Ajustes para móviles pequeños como iPhone 12–14 */
+@media screen and (max-width: 480px) {
+  .pantalla,
+  .header,
+  .seccion1,
+  .seccion2,
+  .seccion3,
+  .seccion4,
+  .footer {
+    width: 100% !important;
+    height: auto !important;
+    padding: 10px !important;
+    margin: 0 auto !important;
+    box-sizing: border-box;
+  }
+
+  .titulo, .titulo2, .titulo3 {
+    font-size: 20px !important;
+    margin: 20px auto 10px auto !important;
+    text-align: center !important;
+    width: 90% !important;
+  }
+
+  .introduccion,
+  .descripcion,
+  .descripcion2,
+  .descripcion3,
+  .descripcion4,
+  .descripcion5,
+  .descripcion6 {
+    font-size: 13px !important;
+    width: 90% !important;
+    margin: 10px auto !important;
+    text-align: center !important;
+  }
+
+  .logo {
+    width: 90px !important;
+    margin: 0 auto !important;
+  }
+
+  .t1, .t2, .t3, .t4 {
+    font-size: 13px !important;
+    margin: 4px 8px !important;
+    text-align: center !important;
+  }
+
+  .resume {
+    width: 100px !important;
+    margin: 10px auto !important;
+    display: block;
+  }
+
+  .facebook, .reddit, .twitter, .discord {
+    width: 30px !important;
+    margin: 5px !important;
+    display: inline-block;
+  }
+
+  .img, .img2, .img3, .img4, .img5, .img6 {
+    width: 100% !important;
+    height: auto !important;
+    margin: 10px 0 !important;
+    border-radius: 10px !important;
+  }
+
+  .project1, .project2, .project3, .project4, .project5 {
+    width: 100% !important;
+    margin: 20px auto !important;
+    padding: 10px !important;
+  }
+
+  .gmail {
+    font-size: 14px !important;
+    text-align: center !important;
+    margin: 10px auto !important;
+    display: block;
+  }
+
+  .footer {
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+
+  .figma {
+    margin-left: 0 !important;
+    margin-top: 10px !important;
+    font-size: 12px !important;
+  }
+}
